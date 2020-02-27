@@ -7,7 +7,7 @@ let prefix = "."
 
 // 2 - Token
 
-client.login(process.env.TOKEN);
+client.login("NjY5NTU3Mjk3MzY1Nzc4NDQ0.Xi9RrA.7m1cMJPT7lbNl8JiTEjQXatLDyk");
 
 // 3 - HELPIG
 
